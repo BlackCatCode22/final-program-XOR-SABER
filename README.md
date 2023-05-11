@@ -17,4 +17,3 @@ weight,
 origin
 
 You must place species in their own habitat and output a report similiar to zooPopulation.txt.
-
